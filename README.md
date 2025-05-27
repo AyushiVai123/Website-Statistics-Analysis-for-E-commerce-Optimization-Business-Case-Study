@@ -7,7 +7,7 @@ dataset offers a comprehensive view of user interactions on an e-commerce websit
 encompassing various dimensions such as page visits, session durations, traffic sources, and
 purchase behavior.
 
-#Objective:
+# Objective:
 The objective of this project is to leverage the dataset to analyze website statistics and derive
 actionable insights aimed at enhancing the e-commerce platform's performance and
 maximizing revenue generation. By examining user engagement metrics, traffic patterns, and
